@@ -29,6 +29,12 @@ const allMusic = [
     "img": "music-5",
     "src": "music-5"
   },
+  {
+    "name": "6. i was only temporary",
+    "artist": "my head is empty",
+    "img": "music-6",
+    "src": "music-6"
+  },
 ];
 
 export default allMusic;
