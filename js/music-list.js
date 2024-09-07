@@ -35,6 +35,12 @@ const allMusic = [
     "img": "music-6",
     "src": "music-6"
   },
+  {
+    "name": "7. ROB THE FRONTIER",
+    "artist": "UVERworld",
+    "img": "music-7",
+    "src": "music-7"
+  },
 ];
 
 export default allMusic;
