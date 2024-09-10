@@ -47,6 +47,12 @@ const allMusic = [
     "img": "music-8",
     "src": "music-8"
   },
+  {
+    "name": "9. feel something",
+    "artist": "Bea Miller",
+    "img": "music-9",
+    "src": "music-9"
+  },
 ];
 
 export default allMusic;
