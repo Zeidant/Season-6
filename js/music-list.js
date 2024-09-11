@@ -53,6 +53,12 @@ const allMusic = [
     "img": "music-9",
     "src": "music-9"
   },
+  {
+    "name": "10. Name",
+    "artist": "Khoruscate",
+    "img": "music-10",
+    "src": "music-10"
+  },
 ];
 
 export default allMusic;
