@@ -77,6 +77,12 @@ const allMusic = [
     "img": "music-13",
     "src": "music-13"
   },
+  {
+    "name": "14. Serious Steel",
+    "artist": "Masaru Yokoyama",
+    "img": "music-14",
+    "src": "music-14"
+  },
 ];
 
 export default allMusic;
