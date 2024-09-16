@@ -83,6 +83,12 @@ const allMusic = [
     "img": "music-14",
     "src": "music-14"
   },
+  {
+    "name": "15. Love Lost",
+    "artist": "Mac Miller",
+    "img": "music-15",
+    "src": "music-15"
+  },
 ];
 
 export default allMusic;
