@@ -89,6 +89,12 @@ const allMusic = [
     "img": "music-15",
     "src": "music-15"
   },
+  {
+    "name": "16. Soweto (with Don Toliver, Rema & Tempoe)",
+    "artist": "Victony",
+    "img": "music-16",
+    "src": "music-16"
+  },
 ];
 
 export default allMusic;
