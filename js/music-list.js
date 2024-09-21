@@ -101,6 +101,18 @@ const allMusic = [
     "img": "music-17",
     "src": "music-17"
   },
+  {
+    "name": "18. bye",
+    "artist": "Ariana Grande",
+    "img": "music-18",
+    "src": "music-18"
+  },
+  {
+    "name": "19. EMRATA",
+    "artist": "Myke Towers",
+    "img": "music-19",
+    "src": "music-19"
+  },
 ];
 
 export default allMusic;
