@@ -119,6 +119,12 @@ const allMusic = [
     "img": "music-20",
     "src": "music-20"
   },
+  {
+    "name": "21. Dance To This",
+    "artist": "Troye Sivan",
+    "img": "music-21",
+    "src": "music-21"
+  },
 ];
 
 export default allMusic;
