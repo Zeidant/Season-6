@@ -131,6 +131,12 @@ const allMusic = [
     "img": "music-22",
     "src": "music-22"
   },
+  {
+    "name": "23. Perspective",
+    "artist": "Cafun\u00e9",
+    "img": "music-23",
+    "src": "music-23"
+  },
 ];
 
 export default allMusic;
