@@ -137,6 +137,12 @@ const allMusic = [
     "img": "music-23",
     "src": "music-23"
   },
+  {
+    "name": "24. Dile a Tu Amiga",
+    "artist": "Dalmata",
+    "img": "music-24",
+    "src": "music-24"
+  },
 ];
 
 export default allMusic;
