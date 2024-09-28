@@ -155,6 +155,12 @@ const allMusic = [
     "img": "music-26",
     "src": "music-26"
   },
+  {
+    "name": "27. Can't Smile Without You",
+    "artist": "Barry Manilow",
+    "img": "music-27",
+    "src": "music-27"
+  },
 ];
 
 export default allMusic;
