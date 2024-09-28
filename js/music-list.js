@@ -149,6 +149,12 @@ const allMusic = [
     "img": "music-25",
     "src": "music-25"
   },
+  {
+    "name": "26. Ella Me Vivia",
+    "artist": "El Prodigio",
+    "img": "music-26",
+    "src": "music-26"
+  },
 ];
 
 export default allMusic;
