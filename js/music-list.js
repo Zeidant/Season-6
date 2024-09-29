@@ -161,6 +161,12 @@ const allMusic = [
     "img": "music-27",
     "src": "music-27"
   },
+  {
+    "name": "28. e m p t y s p a c e s",
+    "artist": "Pity Party (Girls Club)",
+    "img": "music-28",
+    "src": "music-28"
+  },
 ];
 
 export default allMusic;
