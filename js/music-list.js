@@ -167,6 +167,12 @@ const allMusic = [
     "img": "music-28",
     "src": "music-28"
   },
+  {
+    "name": "29. Holy Ghost",
+    "artist": "Omah Lay",
+    "img": "music-29",
+    "src": "music-29"
+  },
 ];
 
 export default allMusic;
