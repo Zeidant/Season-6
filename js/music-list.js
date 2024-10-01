@@ -173,6 +173,12 @@ const allMusic = [
     "img": "music-29",
     "src": "music-29"
   },
+  {
+    "name": "30. Tokyo",
+    "artist": "JHAYCO",
+    "img": "music-30",
+    "src": "music-30"
+  },
 ];
 
 export default allMusic;
