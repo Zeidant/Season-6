@@ -179,6 +179,12 @@ const allMusic = [
     "img": "music-30",
     "src": "music-30"
   },
+  {
+    "name": "31. DEEP IN THE WATER",
+    "artist": "Don Toliver",
+    "img": "music-31",
+    "src": "music-31"
+  },
 ];
 
 export default allMusic;
