@@ -185,6 +185,12 @@ const allMusic = [
     "img": "music-31",
     "src": "music-31"
   },
+  {
+    "name": "32. Vivo",
+    "artist": "Gustavo Cerati",
+    "img": "music-32",
+    "src": "music-32"
+  },
 ];
 
 export default allMusic;
