@@ -197,6 +197,12 @@ const allMusic = [
     "img": "music-33",
     "src": "music-33"
   },
+  {
+    "name": "34. Cooped Up",
+    "artist": "Post Malone",
+    "img": "music-34",
+    "src": "music-34"
+  },
 ];
 
 export default allMusic;
