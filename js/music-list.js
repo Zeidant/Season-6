@@ -203,6 +203,12 @@ const allMusic = [
     "img": "music-34",
     "src": "music-34"
   },
+  {
+    "name": "35. Carta de Despedida",
+    "artist": "LIT killah",
+    "img": "music-35",
+    "src": "music-35"
+  },
 ];
 
 export default allMusic;
