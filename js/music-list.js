@@ -208,6 +208,12 @@ const allMusic = [
     "artist": "LIT killah",
     "img": "music-35",
     "src": "music-35"
+  }, 
+  {
+    "name": "36. Sacrifices",
+    "artist": "Drake",
+    "img": "music-36",
+    "src": "music-36"
   },
 ];
 
