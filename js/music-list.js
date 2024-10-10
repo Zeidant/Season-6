@@ -221,6 +221,12 @@ const allMusic = [
     "img": "music-37",
     "src": "music-37"
   },
+  {
+    "name": "38. 10x Stronger",
+    "artist": "Dominic Fike",
+    "img": "music-38",
+    "src": "music-38"
+  },
 ];
 
 export default allMusic;
