@@ -239,6 +239,12 @@ const allMusic = [
     "img": "music-40",
     "src": "music-40"
   },
+  {
+    "name": "41. Leave Her",
+    "artist": "d4vd",
+    "img": "music-41",
+    "src": "music-41"
+  },
 ];
 
 export default allMusic;
