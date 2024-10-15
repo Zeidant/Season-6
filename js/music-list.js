@@ -257,6 +257,12 @@ const allMusic = [
     "img": "music-43",
     "src": "music-43"
   },
+  {
+    "name": "44. Bugambilia",
+    "artist": "Nasa Histoires",
+    "img": "music-44",
+    "src": "music-44"
+  },
 ];
 
 export default allMusic;
