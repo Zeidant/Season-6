@@ -275,6 +275,12 @@ const allMusic = [
     "img": "music-46",
     "src": "music-46"
   },
+  {
+    "name": "47. Electric (feat. Khalid)",
+    "artist": "Alina Baraz",
+    "img": "music-47",
+    "src": "music-47"
+  },
 ];
 
 export default allMusic;
