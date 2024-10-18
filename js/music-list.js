@@ -269,6 +269,18 @@ const allMusic = [
     "img": "music-45",
     "src": "music-45"
   },
+  {
+    "name": "46. no me siento mejor",
+    "artist": "Caztro",
+    "img": "music-46",
+    "src": "music-46"
+  },
+  {
+    "name": "47. Electric (feat. Khalid)",
+    "artist": "Alina Baraz",
+    "img": "music-47",
+    "src": "music-47"
+  },
 ];
 
 export default allMusic;
