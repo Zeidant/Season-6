@@ -281,6 +281,12 @@ const allMusic = [
     "img": "music-47",
     "src": "music-47"
   },
+  {
+    "name": "48. Magnetic",
+    "artist": "ILLIT",
+    "img": "music-48",
+    "src": "music-48"
+  },
 ];
 
 export default allMusic;
