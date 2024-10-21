@@ -293,6 +293,12 @@ const allMusic = [
     "img": "music-49",
     "src": "music-49"
   },
+  {
+    "name": "50. Know No Better",
+    "artist": "Major Lazer",
+    "img": "music-50",
+    "src": "music-50"
+  },
 ];
 
 export default allMusic;
