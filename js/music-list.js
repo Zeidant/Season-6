@@ -305,6 +305,12 @@ const allMusic = [
     "img": "music-51",
     "src": "music-51"
   },
+  {
+    "name": "52. I Had Some Help",
+    "artist": "Post Malone",
+    "img": "music-52",
+    "src": "music-52"
+  },
 ];
 
 export default allMusic;
