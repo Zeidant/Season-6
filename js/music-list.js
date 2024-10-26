@@ -323,6 +323,12 @@ const allMusic = [
     "img": "music-54",
     "src": "music-54"
   },
+  {
+    "name": "55. Fourth of July",
+    "artist": "Sufjan Stevens",
+    "img": "music-55",
+    "src": "music-55"
+  },
 ];
 
 export default allMusic;
