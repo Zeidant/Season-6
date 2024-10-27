@@ -329,6 +329,12 @@ const allMusic = [
     "img": "music-55",
     "src": "music-55"
   },
+  {
+    "name": "56. Privilege",
+    "artist": "The Weeknd",
+    "img": "music-56",
+    "src": "music-56"
+  },
 ];
 
 export default allMusic;
