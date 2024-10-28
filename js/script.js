@@ -59,7 +59,7 @@ window.addEventListener('load', async () => {
 function loadMusic(indexNumb) {
 	musicName.innerText = allMusic[indexNumb - 1].name;
 	musicArtist.innerText = allMusic[indexNumb - 1].artist;
-	musicImg.src = `images/${allMusic[indexNumb - 1].src}.jpg`;
+	musicImg.src = allMusic[indexNumb - 1].img;
 	mainAudio.src = `songs/${allMusic[indexNumb - 1].src}.mp3`;
 }
 
