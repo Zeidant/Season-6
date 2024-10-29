@@ -341,6 +341,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273e64db80f4b85971dc8040a8a",
     "src": "music-57"
   },
+  {
+    "name": "58. A Pedir Su Mano",
+    "artist": "Juan Luis Guerra 4.40",
+    "img": "https://i.scdn.co/image/ab67616d0000b273fabe96fd440a50e9288111c2",
+    "src": "music-58"
+  },
 ];
 
 export default allMusic;
