@@ -347,6 +347,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273fabe96fd440a50e9288111c2",
     "src": "music-58"
   },
+  {
+    "name": "59. Tell Me",
+    "artist": "James Blake",
+    "img": "https://i.scdn.co/image/ab67616d0000b273921f7aa6349a070b6f26b3ff",
+    "src": "music-59"
+  },
 ];
 
 export default allMusic;
