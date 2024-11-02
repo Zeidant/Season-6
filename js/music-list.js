@@ -365,6 +365,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273672b70fe57e3313b36c781b8",
     "src": "music-61"
   },
+  {
+    "name": "62. Sway - Chainsmokers Remix",
+    "artist": "Anna of the North",
+    "img": "https://i.scdn.co/image/ab67616d0000b273d93a76a0a3124857df32ccd6",
+    "src": "music-62"
+  },
 ];
 
 export default allMusic;
