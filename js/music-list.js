@@ -353,6 +353,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273921f7aa6349a070b6f26b3ff",
     "src": "music-59"
   },
+  {
+    "name": "60. Sympathy is a knife",
+    "artist": "Charli xcx",
+    "img": "https://i.scdn.co/image/ab67616d0000b273df174e0dcb15de7b625a7194",
+    "src": "music-60"
+  },
 ];
 
 export default allMusic;
