@@ -359,6 +359,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273df174e0dcb15de7b625a7194",
     "src": "music-60"
   },
+  {
+    "name": "61. Casca de Bala",
+    "artist": "Thullio Milion\u00e1rio",
+    "img": "https://i.scdn.co/image/ab67616d0000b273672b70fe57e3313b36c781b8",
+    "src": "music-61"
+  },
 ];
 
 export default allMusic;
