@@ -371,6 +371,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273d93a76a0a3124857df32ccd6",
     "src": "music-62"
   },
+  {
+    "name": "63. All Yours",
+    "artist": "Normani",
+    "img": "https://i.scdn.co/image/ab67616d0000b2737974d4ad863b56f88585f4d5",
+    "src": "music-63"
+  },
 ];
 
 export default allMusic;
