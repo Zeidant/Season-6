@@ -383,6 +383,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273c8af7237bb25ad59488944c1",
     "src": "music-64"
   },
+  {
+    "name": "65. B.O.A.T.",
+    "artist": "Camila Cabello",
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ef2562a1156ea6766e00ecb",
+    "src": "music-65"
+  },
 ];
 
 export default allMusic;
