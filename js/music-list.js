@@ -389,6 +389,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b2738ef2562a1156ea6766e00ecb",
     "src": "music-65"
   },
+  {
+    "name": "66. YaMeFui",
+    "artist": "Bizarrap",
+    "img": "https://i.scdn.co/image/ab67616d0000b273aa89966e4d984b3b4c4f3fb9",
+    "src": "music-66"
+  },
 ];
 
 export default allMusic;
