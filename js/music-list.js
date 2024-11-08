@@ -401,6 +401,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b2734dbf091deb00317b2d2851c3",
     "src": "music-67"
   },
+  {
+    "name": "68. The Ways (with Swae Lee)",
+    "artist": "Khalid",
+    "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "src": "music-68"
+  },
 ];
 
 export default allMusic;
