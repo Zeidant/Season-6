@@ -395,6 +395,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273aa89966e4d984b3b4c4f3fb9",
     "src": "music-66"
   },
+  {
+    "name": "67. Running With the Wolves",
+    "artist": "AURORA",
+    "img": "https://i.scdn.co/image/ab67616d0000b2734dbf091deb00317b2d2851c3",
+    "src": "music-67"
+  },
 ];
 
 export default allMusic;
