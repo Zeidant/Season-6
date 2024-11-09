@@ -407,6 +407,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
     "src": "music-68"
   },
+  {
+    "name": "69. Mutual",
+    "artist": "Shawn Mendes",
+    "img": "https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24",
+    "src": "music-69"
+  },
 ];
 
 export default allMusic;
