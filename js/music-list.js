@@ -419,6 +419,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b2737c5ef28417536344aa6d3f87",
     "src": "music-70"
   },
+  {
+    "name": "71. Experience",
+    "artist": "Victoria Mon\u00e9t",
+    "img": "https://i.scdn.co/image/ab67616d0000b27350aa87e1dea05ba3155bbbb2",
+    "src": "music-71"
+  },
 ];
 
 export default allMusic;
