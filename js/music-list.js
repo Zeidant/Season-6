@@ -413,6 +413,18 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24",
     "src": "music-69"
   },
+  {
+    "name": "70. HERE WE GO!",
+    "artist": "Lil Nas X",
+    "img": "https://i.scdn.co/image/ab67616d0000b2737c5ef28417536344aa6d3f87",
+    "src": "music-70"
+  },
+  {
+    "name": "71. Experience",
+    "artist": "Victoria Mon\u00e9t",
+    "img": "https://i.scdn.co/image/ab67616d0000b27350aa87e1dea05ba3155bbbb2",
+    "src": "music-71"
+  },
 ];
 
 export default allMusic;
