@@ -413,6 +413,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24",
     "src": "music-69"
   },
+  {
+    "name": "70. HERE WE GO!",
+    "artist": "Lil Nas X",
+    "img": "https://i.scdn.co/image/ab67616d0000b2737c5ef28417536344aa6d3f87",
+    "src": "music-70"
+  },
 ];
 
 export default allMusic;
