@@ -431,6 +431,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273ddd79cbdb56659549e585906",
     "src": "music-72"
   },
+  {
+    "name": "73. 2 Be Loved (Am I Ready)",
+    "artist": "Lizzo",
+    "img": "https://i.scdn.co/image/ab67616d0000b273fe3b1b9cb7183a94e1aafd43",
+    "src": "music-73"
+  },
 ];
 
 export default allMusic;
