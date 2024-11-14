@@ -425,6 +425,24 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b27350aa87e1dea05ba3155bbbb2",
     "src": "music-71"
   },
+  {
+    "name": "72. Just a Little",
+    "artist": "Bantu",
+    "img": "https://i.scdn.co/image/ab67616d0000b273ddd79cbdb56659549e585906",
+    "src": "music-72"
+  },
+  {
+    "name": "73. 2 Be Loved (Am I Ready)",
+    "artist": "Lizzo",
+    "img": "https://i.scdn.co/image/ab67616d0000b273fe3b1b9cb7183a94e1aafd43",
+    "src": "music-73"
+  },
+  {
+    "name": "74. Still Don't Know My Name",
+    "artist": "Labrinth",
+    "img": "https://i.scdn.co/image/ab67616d0000b27389c39ba1acdf33ed7acd3867",
+    "src": "music-74"
+  },
 ];
 
 export default allMusic;
