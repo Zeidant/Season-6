@@ -425,6 +425,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b27350aa87e1dea05ba3155bbbb2",
     "src": "music-71"
   },
+  {
+    "name": "72. Just a Little",
+    "artist": "Bantu",
+    "img": "https://i.scdn.co/image/ab67616d0000b273ddd79cbdb56659549e585906",
+    "src": "music-72"
+  },
 ];
 
 export default allMusic;
