@@ -437,6 +437,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273fe3b1b9cb7183a94e1aafd43",
     "src": "music-73"
   },
+  {
+    "name": "74. Still Don't Know My Name",
+    "artist": "Labrinth",
+    "img": "https://i.scdn.co/image/ab67616d0000b27389c39ba1acdf33ed7acd3867",
+    "src": "music-74"
+  },
 ];
 
 export default allMusic;
