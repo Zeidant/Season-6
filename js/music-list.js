@@ -443,6 +443,12 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b27389c39ba1acdf33ed7acd3867",
     "src": "music-74"
   },
+  {
+    "name": "75. Juju Woman",
+    "artist": "Labrinth",
+    "img": "https://i.scdn.co/image/ab67616d0000b273e4c03429788f0aff263a5fc6",
+    "src": "music-75"
+  },
 ];
 
 export default allMusic;
