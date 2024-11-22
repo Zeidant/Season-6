@@ -449,6 +449,48 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273e4c03429788f0aff263a5fc6",
     "src": "music-75"
   },
+  {
+    "name": "76. KEHLANI",
+    "artist": "Jordan Adetunji",
+    "img": "https://i.scdn.co/image/ab67616d0000b2739423fae8aceca453648a13d7",
+    "src": "music-76"
+  },
+  {
+    "name": "77. HELP",
+    "artist": "AREA21",
+    "img": "https://i.scdn.co/image/ab67616d0000b273ec6b45eba99e587170e88104",
+    "src": "music-77"
+  },
+  {
+    "name": "78. Alone Again",
+    "artist": "The Weeknd",
+    "img": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "src": "music-78"
+  },
+  {
+    "name": "79. Call Out My Name",
+    "artist": "Ruel",
+    "img": "https://i.scdn.co/image/ab67616d0000b2737689941e465c17b3741e55e1",
+    "src": "music-79"
+  },
+  {
+    "name": "80. Higher (feat. iann dior)",
+    "artist": "Clean Bandit",
+    "img": "https://i.scdn.co/image/ab67616d0000b2734628636f03999328ba098839",
+    "src": "music-80"
+  },
+  {
+    "name": "81. Let Go",
+    "artist": "Aaron May",
+    "img": "https://i.scdn.co/image/ab67616d0000b27353c7a0c956286b6a39185af4",
+    "src": "music-81"
+  },
+  {
+    "name": "82. \u267e",
+    "artist": "Coldplay",
+    "img": "https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d",
+    "src": "music-82"
+  },
 ];
 
 export default allMusic;
