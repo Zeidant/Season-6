@@ -491,6 +491,54 @@ const allMusic = [
     "img": "https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d",
     "src": "music-82"
   },
+  {
+    "name": "83. I Love U",
+    "artist": "The Chainsmokers",
+    "img": "https://i.scdn.co/image/ab67616d0000b273e741cd9dc139d57cc2906186",
+    "src": "music-83"
+  },
+  {
+    "name": "84. 11 Y ONCE",
+    "artist": "Tainy",
+    "img": "https://i.scdn.co/image/ab67616d0000b273f885fb64a381318a1c9c14e4",
+    "src": "music-84"
+  },
+  {
+    "name": "85. Ground",
+    "artist": "Khalid",
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc3d07882847ebe1f54ddc52",
+    "src": "music-85"
+  },
+  {
+    "name": "86. 1% - Remix",
+    "artist": "Papi Sousa",
+    "img": "https://i.scdn.co/image/ab67616d0000b2738d5d6ae2f69fe76dfbcc5d36",
+    "src": "music-86"
+  },
+  {
+    "name": "87 I' AM",
+    "artist": "Milo j",
+    "img": "https://i.scdn.co/image/ab67616d0000b273849b53ac432d482b9312f1cc",
+    "src": "music-87"
+  },
+  {
+    "name": "88. en mis senti",
+    "artist": "paopao",
+    "img": "https://i.scdn.co/image/ab67616d0000b27310c162e08963951d182c7c83",
+    "src": "music-88"
+  },
+  {
+    "name": "89. Come sweet death, second impact",
+    "artist": "Megumi Hayashibara",
+    "img": "https://i.scdn.co/image/ab67616d0000b2736df828bb10343f7bad08d4fe",
+    "src": "music-89"
+  },
+  {
+    "name": "90. Nothing Without You",
+    "artist": "Taner\u00e9lle",
+    "img": "https://i.scdn.co/image/ab67616d0000b27348aff6cb4183bf1f138bd430",
+    "src": "music-90"
+  }
 ];
 
 export default allMusic;
